@@ -30,3 +30,4 @@ if(number1 === number2 && number2 === number3) {
 
 console.log(orderNumbers())
 
+
